@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Rafael Rodriguez (@RafaelEduardoRodriguez)
-### 👀 I’m interested in Web development, IA and competitive programming.
+### 👀 I’m interested in Web development, AI and competitive programming.
 ### 🌱 I’m currently learning React.js and others tecnologies like node & express
 ### 📫 How to reach me: rafael.rerodriguezm@gmail.com / www.linkedin.com/in/rafael-eduardo-rodriguez-muñoz
 
